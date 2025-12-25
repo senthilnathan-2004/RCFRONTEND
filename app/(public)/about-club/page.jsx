@@ -5,8 +5,8 @@ import { Badge } from "@/components/ui/badge"
 import { Calendar, MapPin, Users, Award, Star } from "lucide-react"
 
 export const metadata = {
-  title: "About Our Club | Rotaract Club of AIH",
-  description: "Learn about the history, achievements, and legacy of Rotaract Club of Apollo Institute of Hospital.",
+  title: "About Our Club | Rotaract Club of AIHT",
+  description: "Learn about the history, achievements, and legacy of Rotaract Club of Anand Institute of Higher Technology.",
 }
 
 
@@ -94,7 +94,7 @@ export default function AboutClubPage() {
             <h2 className="text-3xl font-bold mb-6 text-center">Our Story</h2>
             <div className="prose prose-invert max-w-none text-muted-foreground">
               <p className="mb-4">
-                Rotaract Club of Apollo Institute of Hospital was chartered in 2014 with a vision to create a platform
+                Rotaract Club of Anand Institute of Higher Technology was chartered in 2014 with a vision to create a platform
                 for young healthcare professionals and students to engage in meaningful community service while
                 developing leadership skills.
               </p>
